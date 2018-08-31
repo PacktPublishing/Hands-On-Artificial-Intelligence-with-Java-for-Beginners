@@ -1,0 +1,20 @@
+@relation weather-weka.filters.unsupervised.attribute.Remove-R2-4
+
+@attribute outlook {sunny,overcast,rainy}
+@attribute play {yes,no}
+
+@data
+sunny,no
+sunny,no
+overcast,yes
+rainy,yes
+rainy,yes
+rainy,no
+overcast,yes
+sunny,no
+sunny,yes
+rainy,yes
+sunny,yes
+overcast,yes
+overcast,yes
+rainy,no

@@ -2,9 +2,9 @@
 
 <a href="https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09055.png" alt="Learn Ethical Hacking from Scratch" height="256px" align="right"></a>
 
-This is the code repository for [Learn Ethical Hacking from Scratch](https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059), published by Packt.
+This is the code repository for [Hands-On Artificial Intelligence with Java for Beginners](https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059), published by Packt.
 
-**Your stepping stone to penetration testing**
+**Build intelligent apps using machine learning and deep learning with Deeplearning4j**
 
 ## What is this book about?
 This book starts with the basics of ethical hacking, how to practice hacking safely and legally, and how to install and interact with Kali Linux and the Linux terminal. You will explore network hacking, where you will see how to test the security of wired and wireless networks. You’ll also learn how to crack the password for any Wi-Fi network (whether it uses WEP, WPA, or WPA2) and spy on the connected devices.

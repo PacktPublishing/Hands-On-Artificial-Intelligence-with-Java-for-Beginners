@@ -1,4 +1,4 @@
-# Learn Ethical Hacking from Scratch
+# Hands-On Artificial Intelligence with Java for Beginners
 
 <a href="https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09055.png" alt="Learn Ethical Hacking from Scratch" height="256px" align="right"></a>
 

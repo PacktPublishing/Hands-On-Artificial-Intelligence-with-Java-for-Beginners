@@ -48,12 +48,12 @@ With the following software and hardware list you can run all code files present
 * Artificial Intelligence for Big Data [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/artificial-intelligence-big-data?utm_source=github&utm_medium=repository&utm_campaign=9781788472173) [[Amazon]](https://www.amazon.com/dp/1788472179)
 
 ## Get to Know the Author
-**Nisheeth Joshi**
- is an associate professor and a researcher at Banasthali University. He has also done a PhD in Natural Language Processing. He is an expert with the TDIL Program, Department of IT, Government of India, the premier organization overseeing language technology funding and research in India. He has several publications to his name in various journals and conferences, and also serves on the program committees and editorial boards of several conferences and journals.
+**Nisheeth Joshi** 
+is an associate professor and a researcher at Banasthali University. He has also done a PhD in Natural Language Processing. He is an expert with the TDIL Program, Department of IT, Government of India, the premier organization overseeing language technology funding and research in India. He has several publications to his name in various journals and conferences, and also serves on the program committees and editorial boards of several conferences and journals.
  
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+## Other books by the author
+* [Mastering Natural Language Processing with Python](https://www.packtpub.com/big-data-and-business-intelligence/mastering-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781783989041)
+* [Natural Language Processing: Python and NLTK](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-python-and-nltk?utm_source=github&utm_medium=repository&utm_campaign=9781787285101)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
